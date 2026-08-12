@@ -49,6 +49,8 @@ logging.basicConfig(
 logger = logging.getLogger("langgraph-fastapi")
 
 
+name = "avinash"
+
 # ---------------------------------------------------------
 # FastAPI application
 # ---------------------------------------------------------
